@@ -1,0 +1,12 @@
+---
+dependencies: []
+
+galaxy_info:
+  author: badfever
+  description: "Updates with Ansible"
+  license: "license (BSD, MIT)"
+  min_ansible_version: "1.8"
+  platforms:
+    - name: Ubuntu
+      versions:
+        - "jammy"
